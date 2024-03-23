@@ -1,0 +1,2 @@
+Main-Class: com.tsr.Main
+Class-Path: ./lib/log4j-1.2.17.jar
