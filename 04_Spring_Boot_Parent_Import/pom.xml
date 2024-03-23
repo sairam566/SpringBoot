@@ -45,6 +45,7 @@
 				<version>2.7.18</version>
 				<executions>
 					<execution>
+						<phase>package</phase>
 						<goals>
 							<goal>repackage</goal>
 						</goals>
