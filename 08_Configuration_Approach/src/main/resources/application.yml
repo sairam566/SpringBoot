@@ -1,3 +1,5 @@
 spring:
   main:
-    banner-mode: off
+    banner-mode: console
+  banner:
+    location: classpath:banner.txt
