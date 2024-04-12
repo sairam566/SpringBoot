@@ -1,0 +1,15 @@
+---
+student:
+  name: sai
+  age: 26
+  branch: CSE
+  friends:
+    - A1
+    - A2
+    - A3
+  subjects:
+    - M1
+    - M2
+    - EDC
+    - Java
+...
