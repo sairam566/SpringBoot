@@ -1,0 +1,12 @@
+---
+student:
+  name: sai
+  age: 25
+  branch: CSE
+  collage: Test
+  friends:
+    - ram
+    - surya
+    - jess
+    - tom
+...
