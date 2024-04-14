@@ -1,0 +1,22 @@
+server:
+  properties:
+    name: MyFirstApp_DEV
+    description: Configuration using Dev
+    url: https://www.MyFirstApp-dev.com
+  config:
+    ips:
+      - 10.10.10.10
+      - 10.10.10.11
+      - 10.10.10.12
+      - 10.10.10.13
+    filesystem:
+      - /dev/root
+      - /dev/md2
+      - /dev/md4
+  credentials:
+    root:
+      username: root
+      password: welcome@123
+    tomcat:
+      username: tomcat
+      password: tomcat@123
